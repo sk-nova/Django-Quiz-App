@@ -28,10 +28,6 @@ DEBUG = config('DJANGO_DEBUG', default=False, cast=bool)
 
 ALLOWED_HOSTS = []
 
-print('DEBUG:', DEBUG)
-print('SECRET_KEY:', SECRET_KEY)
-
-
 # Application definition
 
 INSTALLED_APPS = [

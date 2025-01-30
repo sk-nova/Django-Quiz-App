@@ -6,6 +6,7 @@
 
 - Python 3.12 or higher
 - [Poetry](https://python-poetry.org/docs/#installation) for dependency management
+- Make
 
 ### Installation
 
